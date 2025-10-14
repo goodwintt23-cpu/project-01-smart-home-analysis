@@ -8,5 +8,6 @@
 
 ---
 **Инструменты и нотации:** Miro, draw.io, Figma, Markdown; DFD, ERD (3НФ), критерии приёмки (Gherkin), ПМИ.
+
 ---
 Внешние ссылки на артефакты: см. [`LINKS.md`](LINKS.md).
