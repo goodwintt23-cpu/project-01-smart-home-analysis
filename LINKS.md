@@ -8,3 +8,14 @@
 
 3) Прототип (Figma, view-only): [`https://…`](https://www.figma.com/design/staLoelksEPrQAp6kfVwxG/Stets-Home-%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0?node-id=22702-12025&t=6atDyDkk1UcCfvdq-1)
    _Кликабельные экраны и основные пользовательские потоки._
+
+# LINKS — Stets Home (3 ссылки)
+
+1) Прототип (Figma, view-only): https://…
+   Кликабельные экраны и основные пользовательские потоки.
+
+2) USM / Acceptance Criteria (Miro, view-only): https://…
+   Карта задач с пометкой MVP и ключевые AC.
+
+3) Диаграммы DFD L0–L1 / ERD 3NF (draw.io, view-only): https://…
+   Процессы и модель данных.
