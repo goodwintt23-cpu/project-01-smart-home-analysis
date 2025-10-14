@@ -1,4 +1,4 @@
-# Links — Stets Home
+# LINKS — Stets Home
 
 1) USM / Acceptance Criteria (Miro, view-only): [`https://…`](https://www.figma.com/design/staLoelksEPrQAp6kfVwxG/Stets-Home-%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0?node-id=22702-12025&t=6atDyDkk1UcCfvdq-1)  
    _Карта задач с пометкой MVP и ключевые AC._
