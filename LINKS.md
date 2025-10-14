@@ -1,4 +1,4 @@
-# LINKS — Stets Home
+# Links — Stets Home
 
 1) Прототип (Figma, view-only): [`https://…`](https://miro.com/app/board/uXjVJ6sKgb0=/?share_link_id=488402602130)  
    _Кликабельные экраны и основные пользовательские потоки._
