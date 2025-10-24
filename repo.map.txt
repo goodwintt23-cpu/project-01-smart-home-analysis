@@ -1,0 +1,11 @@
+project-01-smart-home-analysis/
+├── README.md                  — описание проекта, ссылки на артефакты
+├── LINKS.md                   — прямые ссылки на внешние материалы
+├── sh-data_dictionary.pdf     — словарь данных
+├── sh-dfd.drawio.png          — DFD (основной уровень)
+├── sh-dfd_erd.drawio          — DFD + ERD связка
+├── sh-erd.drawio.png          — ER-диаграмма (3НФ)
+├── sh-pmi.pdf                 — программа методики испытаний (ПМИ)
+├── sh-prototype_figma.png     — превью макета Figma
+├── sh-usm.jpg                 — User Story Map (MVP/Backlog)
+└── sh-usm_hypothesis.jpg      — гипотезы и контекст USM
